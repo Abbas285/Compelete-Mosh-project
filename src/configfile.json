@@ -1,0 +1,7 @@
+{
+    "allMovies":"http://localhost:3900/api/movies",
+    "allGenera":"http://localhost:3900/api/genres",
+    "userApi"  :"http://localhost:3900/api/users",
+    "authuser" :"http://localhost:3900/api/auth"
+    
+}
